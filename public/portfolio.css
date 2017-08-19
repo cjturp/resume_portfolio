@@ -1,0 +1,9 @@
+p {
+  display: flex;
+  justify-content: center;
+  font-family: "Lucida Grande";
+  color: #D3D3D3;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  font-size: 400%;
+  padding-top: 10%;
+}
