@@ -7,3 +7,50 @@ p {
   font-size: 400%;
   padding-top: 10%;
 }
+
+#list {
+  padding-left: 30%;
+}
+
+#list li {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  display: inline;
+  text-align: center;
+  font-family: "Lucida Grande";
+  color: #D3D3D3;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  font-size: 150%;
+  padding: 2%;
+}
+
+a {
+  text-decoration: none;
+  color: #D3D3D3;
+}
+
+a:hover {
+  color: black;
+}
+
+.contact {
+  padding-left: 30%;
+  margin-top: 20%;
+  position: fixed;
+}
+
+#contact-items li {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  display: inline;
+  text-align: center;
+  font-family: "Lucida Grande";
+  color: #D3D3D3;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  font-size: 90%;
+  padding: 2%;
+}
