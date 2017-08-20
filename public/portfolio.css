@@ -10,6 +10,7 @@ p {
 
 #list {
   padding-left: 30%;
+  padding-top: 5%;
 }
 
 #list li {
@@ -36,8 +37,8 @@ a:hover {
 }
 
 .contact {
-  padding-left: 30%;
-  margin-top: 20%;
+  padding-left: 27%;
+  margin-top: 10%;
   position: fixed;
 }
 
@@ -45,7 +46,7 @@ a:hover {
   list-style-type: none;
   display: flex;
   justify-content: center;
-  flex-direction: row;
+  /*flex-direction: row;*/
   display: inline;
   text-align: center;
   font-family: "Lucida Grande";
